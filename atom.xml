@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>untitled</title>
+  <subtitle>untitled</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://ekedan.github.io/"/>
+  <updated>2016-08-03T22:15:22.000Z</updated>
+  <id>http://ekedan.github.io/</id>
+  
+  <author>
+    <name>Elite</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://ekedan.github.io/2016/06/23/test/"/>
+    <id>http://ekedan.github.io/2016/06/23/test/</id>
+    <published>2016-06-24T00:12:04.000Z</published>
+    <updated>2016-08-03T22:15:22.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
