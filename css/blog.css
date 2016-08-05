@@ -24,11 +24,10 @@ html, body {
 }
 
 body {
-
     font-family: 'Futura', 'Avara', 'Aktiv Grotesk', 'Times New Roman', Arial, Helvetica, sans-serif;
     font-size: 85px;
-
 }
+
 a {
     color: black;
     text-decoration: none;
@@ -60,11 +59,11 @@ img {
 
 .detail-home {
     font-family: 'Bell Gothic Std Bold','Avara', 'Futura','Aktiv Grotesk', 'Times New Roman', Arial, Helvetica, sans-serif;
-    font-size: 85px;
+    font-size: 95px;
 
     position: fixed;
-    right: 30px;
-    bottom: 30x;
+    right: 50px;
+    bottom: 30px;
 
    /* a:hover { 
     text-decoration: line-through;*/
@@ -148,7 +147,7 @@ img {
 
 .main-links {
     margin-left: 100px;
-    margin-top: 350px;
+    margin-top: 195px;
 }
 .main-link {
     margin-right: 30px;
